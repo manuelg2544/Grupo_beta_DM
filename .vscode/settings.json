@@ -1,0 +1,20 @@
+{
+  "C_Cpp.default.compileCommands": "${workspaceFolder}/build/compile_commands.json",
+  "cmake.sourceDirectory": "/home/daniel/Documentos/Master Fisica/TFM/Pruebas /Prueba_02",
+  "cmake.buildDirectory": "${workspaceFolder}/build",
+  "cmake.configureArgs": [
+    "-DGeant4_DIR=/home/daniel/geant4-install/lib/cmake/Geant4",
+    "-DGarfield_DIR=/home/daniel/garfield/install/lib/cmake/Garfield",
+    "-DROOT_DIR=/home/daniel/root-install/cmake"
+  ],
+  "files.associations": {
+    "ExportLevels.C": "cpp",
+    "Levels_pressure.C": "cpp",
+    "Levels_field.C": "cpp",
+    "new": "cpp"
+  },
+
+
+  "python.defaultInterpreterPath": "/home/daniel/.venv/bin/python"
+  
+}
